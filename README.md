@@ -12,5 +12,7 @@ dv:loadStr("test->1")
 dv:loadStr("test->2")
 ```
 **output:**
+```
 test=1
 test=2
+```
