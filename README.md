@@ -1,6 +1,6 @@
 # lua-tools
 **exsample:**
-'''
+```lua
 devt=require("devt")
 dv=devt.new()
 dv:setName("test",{
@@ -10,7 +10,7 @@ dv:setName("test",{
 })
 dv:loadStr("test->1")
 dv:loadStr("test->2")
-'''
+```
 **output:**
 test=1
 test=2
